@@ -1,0 +1,11 @@
+{
+  "mod_name": "Fullbright Mod",
+  "description": "This mod enhances the brightness in your game.",
+  "enabled": "Enabled",
+  "disabled": "Disabled",
+  "settings": {
+    "brightness_level": "Brightness Level",
+    "max_brightness": "Maximum Brightness",
+    "min_brightness": "Minimum Brightness"
+  }
+}
